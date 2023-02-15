@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{F34409D9-A395-4AFF-9D64-E0F2D768D392}" Loaded="No" Name="diagramme_de_classe" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="use_case.moo"/>
+		<Model Expanded="Yes" ID="{F34409D9-A395-4AFF-9D64-E0F2D768D392}" Loaded="No" Name="diagramme_de_classe" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../../Desktop/4_5983333899428695623.moo"/>
+		<Model Expanded="Yes" ID="{F34409D9-A395-4AFF-9D64-E0F2D768D392}" Loaded="No" Name="diagramme_de_classe" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../../Desktop/4_5983333899428695623.moo"/>
+		<Model Expanded="Yes" ID="{246B15E4-D8B1-4A1D-B055-18822F430EEF}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../stage/diagramme/classe/classe1.moo"/>
+		<Model Expanded="Yes" ID="{F34409D9-A395-4AFF-9D64-E0F2D768D392}" Loaded="No" Name="diagramme_de_classe" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../../Desktop/4_5983333899428695623.moo"/>
+		<Model Expanded="Yes" ID="{246B15E4-D8B1-4A1D-B055-18822F430EEF}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../stage/diagramme/classe/classe1.moo"/>
+		<Model Expanded="Yes" ID="{F34409D9-A395-4AFF-9D64-E0F2D768D392}" Loaded="No" Name="diagramme_de_classe" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../../Desktop/4_5983333899428695623.moo"/>
+		<Model Expanded="Yes" ID="{C93DEDE5-4AFF-43A1-A3E6-AFA3712A890F}" Name="Diagramme de classes_2" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../../Desktop/Diagramme de classes.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
